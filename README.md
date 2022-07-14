@@ -1,6 +1,6 @@
 # Auto_irrigation
 
-    This is a code for an automatic watering system that waters plants when the soil moisture.
+    This is a code for an automatic watering system that waters plants when the soil moisture is low
     In addition to this it also stores the moisture data and ph levels of the soil on a sd card.
     Components used:
     1: Soil moisture sensor
